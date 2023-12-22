@@ -7,3 +7,6 @@
 [submodule "streamlit"]
 	path = streamlit
 	url = git@github.com:appstew/streamlit
+[submodule "learning-PyFladesk-rss-reader"]
+	path = learning-PyFladesk-rss-reader
+	url = git@github.com:appstew/learning-PyFladesk-rss-reader.git
