@@ -1,0 +1,9 @@
+[submodule "flask"]
+	path = flask
+	url = git@github.com:appstew/flask
+[submodule "html5up.com"]
+	path = html5up.com
+	url = git@github.com:appstew/html5up.com
+[submodule "streamlit"]
+	path = streamlit
+	url = git@github.com:appstew/streamlit
