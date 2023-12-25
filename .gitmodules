@@ -10,3 +10,9 @@
 [submodule "learning-PyFladesk-rss-reader"]
 	path = learning-PyFladesk-rss-reader
 	url = git@github.com:appstew/learning-PyFladesk-rss-reader.git
+[submodule "learning_electron"]
+	path = learning_electron
+	url = git@github.com:appstew/learning_electron.git
+[submodule "learning_react"]
+	path = learning_react
+	url = git@github.com:appstew/learning_react.git
